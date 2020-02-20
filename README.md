@@ -1,2 +1,2 @@
 # ABM Tech Test
- Tech Test
+ Technical Test
