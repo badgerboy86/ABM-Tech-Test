@@ -2,10 +2,10 @@
 
 ## Contains 3 projects
 
-## ExtractXmlValuesTest / ParseEDIFACTTest:
+## ExtractXmlValuesTest / ParseEDIFACTTest projects:
 - these are stand alone java applications with main method. To run just import into Eclipse or another IDE and run as a standard Java application.
 
-## WebServiceTest:
+## WebServiceTest project:
 
  - Maven Web App. To run import into eclipse > right click on  > maven > update project. Configured to run on java 1.8.
  - Click on the servers tab in eclipse and create a new localhost Apache Tomcat 9.0 server to host on.
