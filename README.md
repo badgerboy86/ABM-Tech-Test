@@ -7,7 +7,7 @@
 
 ## WebServiceTest project:
 
- - Maven Web App. To run import into eclipse > right click on  > maven > update project. Configured to run on java 1.8.
+ - Maven Web App. To run import into eclipse > right click on  > maven > update project. (Configured to run on java 1.8.)
  - Click on the servers tab in eclipse and create a new localhost Apache Tomcat 9.0 server to host on.
  - Once server is configured - right click on project folder WebServiceTest > run as > run on server.
  
